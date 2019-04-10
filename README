@@ -1,5 +1,2 @@
 README
-
-
-	- Gestion générique des view 
-		- modifier les liens vers la vue dans les controllerUtilisateur et ControllerCactus
+Pour démarrer il faut initialiser la base de données qui est situé dans le Config/conf.php.
